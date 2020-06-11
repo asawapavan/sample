@@ -4,3 +4,6 @@ Testing
 Commiting Test
 Branching TEST
 Origin TEST
+One line of new text
+Two lines of new text
+AH AH AH AH we are counting!
